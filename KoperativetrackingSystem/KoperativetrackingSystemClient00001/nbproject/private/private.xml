@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/KoperativetrackingSystemClient00001/src/view/LoanView.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/KoperativetrackingSystemClient00001/src/rmi/MemberService.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/KoperativetrackingSystemClient00001/src/model/Savings.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/KoperativetrackingSystemClient00001/src/client/rmi/RMIClient.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/KoperativetrackingSystemClient00001/src/model/Loan.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/KoperativetrackingSystemClient00001/src/view/LoginView.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/KoperativetrackingSystemClient00001/src/client/controller/MemberController.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/KoperativetrackingSystemClient00001/src/view/DashboardView.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/KoperativetrackingSystemClient00001/src/view/SavingsView.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/KoperativetrackingSystemClient00001/src/rmi/SavingsService.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/KoperativetrackingSystemClient00001/src/view/MemberView.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/KoperativetrackingSystemClient00001/src/rmi/LoanService.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/KoperativetrackingSystemClient00001/src/client/controller/SavingsController.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/KoperativetrackingSystemClient00001/src/client/controller/LoanController.java</file>
+        </group>
+    </open-files>
+</project-private>
